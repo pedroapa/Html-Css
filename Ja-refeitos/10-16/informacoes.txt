@@ -1,0 +1,28 @@
+		
+
+CORES
+
+azul escuro - 3c435f
+laranja - fd8f4c
+marrom - 5D3A00
+amarelho - F9EA9A
+meio-branco - E5F4E3
+
+vamos começar a planejar como vai ser o layout da pagina web
+
+	FONTES
+titulos
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+font-family: 'Rubik Dirt', cursive;
+
+fonte-padrao
+
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+font-family: 'Didact Gothic', sans-serif;
+
+
+fiz loyout do index, preciso fazer outras agora
+
+achar um favicon daora para por

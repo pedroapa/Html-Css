@@ -1,0 +1,48 @@
+antes de prosseguir, preciso antes mexer na largura das imagens, elas estão muito grandes
+
+vou precisar das imagens com uns 300 de largura, vou remidimensionar
+
+para poder usar variaveis usar pseudo-classe root com dois pontos ' :'
+
+vou por main fundo branco porque ele ta com conteudo de texto
+
+se atras do elefante tivesse um degrade redondo?
+
+depois eu ponho a imagem do elefante
+
+estou com dificuldade de por o conteudo no meio
+estou em duvida se coloco padding dentro do main
+se eu colocar mesmo, como fica a fita do responsivo?
+
+
+faltou eu ter uma ideia do tamanho do conteudo com a imagem
+eu coloquei um tamanho minimo e maximo no main e um padding no body
+
+eu não to conseguindo fazer a responsabilidade
+
+eu tava tentando deixar o conteudo do main responsivo
+quando eu coloco margin auto, da problema lá no header, ele diminui de tamanho mais que a parte de baixo
+botei margem dos lados e esse bug parou de funcionar no header, mas não ta fucionando responvidade no conteudo, só o header que fica com tamanho certo(ele complido la em cima)
+
+problema que ta acontecendo:
+na hora de diminuir o tamanho da pagina, ta diminuindo o conteudo, mas quando a tela fica pequena, fica uma margin só do lado esquerdo do main
+* agora que coloquei margin auto deu certo, talvez eu estava testando em uma tela pequena
+
+agora nao estou conseguindo fazer a imagem dentro da div ficar responsiva
+
+eu to fazendo uma gambiarra para por dois articles na mesma altura, estou controlando o tamanho do paragrafo para poder deixar as imagens do lado do texto 
+
+
+
+vou usar os  numeros do professor para testar mesmo
+
+cada lugar o site aparece de um jeito, entao colocar da forma que eu queiro eu ainda não estou preparado. Vou terminar o resto então
+
+agora quero por uma imagem dentro do hearder
+eu coloco a imagem dentro de uma div  e depois tento por que ela tem tamanho 100%, mas só faz a imagem ficar com seu tamanho original
+
+acho que imagem não poe em uma div
+
+eu vendo que eu tinha feito para por uma imagem no header, dei conta que eu não aprendi a fazer isso pelo curso em video e é melhor deixar isso de lado e focar no site
+
+radial-gradient(circle, var(--cor1), var(--cor2)52%)

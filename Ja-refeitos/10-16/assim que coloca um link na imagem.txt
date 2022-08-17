@@ -1,0 +1,3 @@
+//fazer um link na imagem
+
+<a href="http://facebook.com" target="_blank"> <img src="foto.jpg" id="fb"> </a>
