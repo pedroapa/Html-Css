@@ -1,13 +1,16 @@
 @charset "UTF-8";
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     font-family: serif;
     font-size: 16px;
     color: white;
-    /*padding-left: 40px; */
     background-image: url('imagens/fundo.jpg');
     margin-left: 170px;
-    width: 600px;
     width: 990px;
 }
 
@@ -19,9 +22,6 @@ header {
 img#fundo-header {
     height: 200px;
     width: 990px;
-    /*border-width: 5px;
-    border-style: solid;
-    border-color: #008080; */
 }
 
 nav {
