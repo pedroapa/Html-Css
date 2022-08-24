@@ -1,0 +1,1 @@
+Essa imagem mostra como seria por uma imagem de fundo sem as configurações padrões, primeiro posicionamos ela no center top (nota-se o espaço vazio embaixo da imagem) e retiramos a repetição, que tira a parte que repeteria na parte de baixo e nas laterais, então sem conf, é uma imagem no centro da tela
