@@ -1,0 +1,2 @@
+Essa imagem mostra o que acontece quando seu conteudo da pagina é grande e voce a usado uma imagem de fundo no body sem repetir.
+o texto com main desce e aparece a cor  de fundo do body
