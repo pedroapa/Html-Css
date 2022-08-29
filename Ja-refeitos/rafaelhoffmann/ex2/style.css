@@ -22,3 +22,23 @@ strong {
     color: var(--cor-destaque);
     font-size: 18px;
 }
+
+body > p {
+    font-size: 13px;
+}
+
+body > p > strong {
+    font-size: 13px;
+}
+
+p#fonte {
+    font-size: 10px;
+}
+
+p > a {
+    color: var(--cor-link);
+}
+
+p > a:visited {
+    color: var(--cor-link-visitado);
+}
