@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-#root{
+:root{
     /*Cores */
     --cor-fundo:  #40404a;
     --cor-link: #dbf6a7;
@@ -9,19 +9,16 @@
     --cor-destaque: #dbf6a7;
 
     /*Fontes */
-    --fonte-pradao: font-family: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte-pradao: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
-    margin: 0px;
-    padding: 0px;
-}
-
-main {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
+    font-family: var(--fonte-pradao);
 }
 
 strong {
-    color: var(--cor-link-visitado);
+    color: var(--cor-destaque);
+    font-size: 18px;
 }
