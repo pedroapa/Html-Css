@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#root{
+    /*Cores */
+    --cor-fundo:  #40404a;
+    --cor-link: #dbf6a7;
+    --cor-link-visitado : #00FF00;
+    --cor-texto: #daf3de;
+    --cor-destaque: #dbf6a7;
+
+    /*Fontes */
+    --fonte-pradao: font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+}
+
+strong {
+    color: var(--cor-link-visitado);
+}
