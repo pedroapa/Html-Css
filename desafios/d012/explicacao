@@ -1,8 +1,14 @@
 Nesta pasta vou criar mais duas, uma é eu tentando fazer sózinho e outro é fazendo junto do professor.
 
-Primeiro imagina o layout
+Primeiro imagina o layout*
 depois criar uma paleta de cores
+    no caso não tem porque usou imagens
 e ver qual fonte o professor usou
+    header- Passion One
+        136px (grande)
+    texto- Sriracha
+        tamanho 47(grande)
+    roda-pe verdana
 
 no desafio as letras estão alterando dinamicamente
 
@@ -10,3 +16,21 @@ achar um tamanho de tela ideal pensando no celular
 
 pelos meus testes o espaço da linha modifica junto com o tamanho da letra.
 
+OBS- A imagens de fundo não estão dentro de main, é o que parece, Como se ela tivesse atras no body e quando descemos a imagem do body fosse trocada e aparece den novo na parte que ta furada.
+
+Como criar um main furado? k
+
+humm, analisando de novo, deu pra ver que o body que é branco e acontece de uma div aparecer em cima dela
+
+se eu consegui pelo menos construir o site com as div e as imagens estaticas dentro
+
+a imagem ta com valor fixo no attachm 
+
+agora to em duvida como criaram a imagem, se ela esta dentro de uma div. Talvez ela esteja porque no interior da imagem tem uma div com texto dentro.
+se isso for verdade, então eu uso um aside com uma div dentro?
+faz sentido e a imagem de fundo do aside é a flor, que fica fixa na tela. Outra coisa que a imagem escondida é maior que a janela que ela aparece para dar esse efeito para lex.
+será que tem uma imagem escondida, enquanto main estiver em cima dela, ela então fica invisivel, ele sai e ela aparece, mas se sim, ela devi descer junto com outros conteudos quando rolasse a tela pra baixo.
+se eu esquecer a imagem, a pagina é texto com dois quadrados. Talvez a magina esteja no quadrado e não no fundo mesmo.
+
+obs-aleatoria- se voce não colocar https no link, o navegador vai tentar encontrar o arquivo no computador.ex=
+voce quer criar um link pro google.com, se voce esquecer, ele vai procurar o caminho www.google.com 
