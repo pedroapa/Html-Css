@@ -1,15 +1,16 @@
 @charset "UTF-8";
 
 /* Link das fontes */
-@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
 
 /*Criar as variaveis */
 :root {
-    --font-titulo: 'Sriracha', cursive;
-    --font-texto: 'Passion One', cursive;
+    --font-titulo: 'Passion One', cursive;
+    --font-texto: 'Sriracha', cursive;
+    
 }
 
 *{
@@ -22,12 +23,57 @@ body {
 }
 
 header {
-    height: 150px;
+    height: 250px;
     background-color: black;
     color: white;
     text-align: center;
 }
 
 header > h1 {
-    padding-top: 10px;
+    font-family: var(--font-titulo);
+    font-style: normal;
+    font-size: 90px;
+    font-weight: 900;
+    padding-top: 45px; 
+
+}
+
+header > h1 > strong {
+    font-size: 120px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+main p {
+    font-family: var(--font-texto);
+    font-size: 47px;
+}
+
+main div {
+    min-width: 300px;
+    max-width: 550px;
+    margin: 90px 40px;
+}
+
+.txt-img {
+    height: 595px;
+    padding-left: 5px;
+    background-color: black;
+    color: white;
+}
+
+aside {
+    background-color: blue;
+}
+
+aside#flor {
+    background-image: url('imagens/background001.jpg');
 }
