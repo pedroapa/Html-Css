@@ -34,3 +34,13 @@ se eu esquecer a imagem, a pagina é texto com dois quadrados. Talvez a magina e
 
 obs-aleatoria- se voce não colocar https no link, o navegador vai tentar encontrar o arquivo no computador.ex=
 voce quer criar um link pro google.com, se voce esquecer, ele vai procurar o caminho www.google.com 
+
+blz, hoje eu quero por as imagens no lugar 
+
+usar fonte (font-family: 'Passion One', cursive; //titulo
+
+font-family: 'Sriracha', cursive; //texto
+
+obs: sera que os textos que variam de tamanho estão dentro de uma div?
+
+preciso ter uma div para colocar o texto, porque ele fica deste jeito ou talvez eu configure a largura no p, mas não é tão comum imaginar o p como sendo um block
