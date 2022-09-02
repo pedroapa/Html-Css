@@ -3,4 +3,15 @@
 main {
     height: 800px;
     width: 800px;
+    background-color: blue;
+    background-image: url('imagens/background001.jpg');
+    background-position: right center;
+}
+
+aside {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(62, 106, 107);
+    font-size: 20px;
+    text-align: center;
 }
