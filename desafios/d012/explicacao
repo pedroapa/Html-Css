@@ -44,3 +44,9 @@ font-family: 'Sriracha', cursive; //texto
 obs: sera que os textos que variam de tamanho estão dentro de uma div?
 
 preciso ter uma div para colocar o texto, porque ele fica deste jeito ou talvez eu configure a largura no p, mas não é tão comum imaginar o p como sendo um block
+
+99
+mano o tamanho da altura do header altera dependendo do tamanho da tela, da pra ver diminuindo conforme faz devagar. A pagina inteira muda conforme o tamanho da tela.
+
+voltando pro problema de por uma imagem de fundo no aside.
+vou comentar o que tem dentro do aside pra ver se vai

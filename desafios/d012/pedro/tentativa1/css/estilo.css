@@ -23,7 +23,7 @@ body {
 }
 
 header {
-    height: 250px;
+    height: 250px; 
     background-color: black;
     color: white;
     text-align: center;
@@ -54,7 +54,7 @@ a:hover {
 
 main p {
     font-family: var(--font-texto);
-    font-size: 47px;
+    font-size: 47px; 
 }
 
 main div {
@@ -71,9 +71,23 @@ main div {
 }
 
 aside {
+    text-align: right;
     background-color: blue;
+    background-image: url('imagens/background001.jpg');
 }
 
+/*
+aside > div {
+    background-image: url('imagens/background001.jpg');
+}
+*/
+
+div#div-imagem {
+    background-color: white;
+    background-image: url('imagens/background001.jpg');
+}
+/*
 aside#flor {
     background-image: url('imagens/background001.jpg');
 }
+*/
