@@ -88,3 +88,11 @@ aside#livro {
     background-image: url('../imagens/background002.jpg');
     background-position: center center;
 }
+
+footer {
+    padding: 10px;
+    height: 15px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}

@@ -10,3 +10,5 @@ Eu estava ficando bravo e decedi começar o projeto todo de novo, mas agora eu e
 era que a pasta da imagem estava um nível antes do arquivo html, então na hora de procurar não aparecia nada
 eu resolvi e o minha primeira tentativa tava indo bem, mas eu notei umas coisas e aprendi outras na segunda ten-
 tativa
+
+colocando uma imagem dentro do aside notei que ela sofre os padding, então aumenta a hipotese que a imagem esteja no body e de alguma forma não aparece dentro do aside.
