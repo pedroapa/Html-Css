@@ -15,6 +15,13 @@
     padding: 0px;
 }
 
+body {
+    background-image: url('../imagens/background001.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
 header {
     height: 265px;
     background-color: black;
@@ -50,6 +57,7 @@ header a:hover {
 main {
     background-color: white;
     padding-left: 30px;
+    padding-top: 165px;
 }
 
 main div {
@@ -73,16 +81,18 @@ main p {
 }
 
 main aside {
-   /* width: 1349px;
-    height: 910px; */
-    background-repeat: no-repeat;
+    height: 1200px;
+    width: 500px;
+    
     background-color: blueviolet; 
 }
 
+/*
 aside#flor {
     background-image: url('../imagens/background001.jpg');
     background-position: center center;
 }
+*/
 
 aside#livro {
     background-image: url('../imagens/background002.jpg');
