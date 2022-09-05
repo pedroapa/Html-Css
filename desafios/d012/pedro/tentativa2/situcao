@@ -6,3 +6,7 @@ vou evitar usar div desnecessarias.
 
 deixar a imagem de fundo no body e tenho que consegui de alguma forma criar uma div "transparente" que tenha um buraco para mostrar a imagem.
 
+Eu estava ficando bravo e decedi começar o projeto todo de novo, mas agora eu entendi o que estava dando erro
+era que a pasta da imagem estava um nível antes do arquivo html, então na hora de procurar não aparecia nada
+eu resolvi e o minha primeira tentativa tava indo bem, mas eu notei umas coisas e aprendi outras na segunda ten-
+tativa

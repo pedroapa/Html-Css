@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+/* Link das fontes */
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+:root {
+    --fonte-titulo: 'Passion One', cursive;
+    --fonte-texto: 'Sriracha', cursive;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    height: 265px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+header h1 {
+    font-family: var(--fonte-titulo);
+    font-size: 90px;
+    padding-top: 35px;
+}
+
+header strong {
+    font-size: 120px;
+}
+
+header p {
+    font-size: 20px;
+    font-family: var(--fonte-titulo); 
+    font-weight: 100;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+main {
+    background-color: white;
+    padding: 100px 30px;
+}
+
+main div {
+    width: 550px;
+    height: 580px;
+    padding-left: 5px;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+}
+
+.div-dentro {
+    color: white;
+    background-color: black;
+}
+
+main p {
+    font-family: var(--fonte-texto);
+    font-size: 47px;
+    padding-bottom: 165px;
+}
+
+main aside {
+   /* width: 1349px;
+    height: 910px; */
+    background-repeat: no-repeat;
+    background-color: blueviolet; 
+}
+
+aside#flor {
+    background-image: url('../imagens/background001.jpg');
+    background-position: center center;
+}
+
+aside#livro {
+    background-image: url('../imagens/background002.jpg');
+    background-position: center center;
+}

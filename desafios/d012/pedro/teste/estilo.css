@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+main {
+    padding: 15px;
+}
+
+main div {
+    width: 550px;
+    height: 410px;
+    background-color: black;
+    color: white;
+}
+
+main p {
+    font-size: 47px;
+}
+
+main aside {
+    background-image: url('background001.jpg');
+    background-position: center center;
+}
