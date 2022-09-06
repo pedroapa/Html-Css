@@ -15,3 +15,9 @@ colocando uma imagem dentro do aside notei que ela sofre os padding, então aume
 
 eu consegui fazer o o efeito parcialmente. Eu tinha feito um buraco que parecia que era do aside que dava para ver a imagem do fundo e estava funcionando o efeito paralax, na verdade, pensando bem era a divisoria entre o main e o header kkk, é que os paragrafos estavam dando uma margem pra cima. Resolvi isso e a imagem de fundo sumiu. 
 Beleza, vou dividir a pagina em 3 partes brancas, um antes da primeira imagem, outra no meio e ultima depois. Depois vou dar um espaço entre margin destes blocos e por a imagem de fundo. Eu só não vou conseguir mudar a imagem de fundo, porque o professor deve usar uma subclasse para que depois de ter passado pela metade do site, a imagem de fundo seja trocada. Mas se eu conseguir fazer o efeito com uma imagem ja conta.
+
+
+06/09
+
+Hoje não sei se tento fazer outro projeto ou tento entender qual treta esta acontecendo na segunda tentativa.
+Vou tentar resolucionar o bug da estar descofigurado, vou gastar um pouco a paciencia aqui

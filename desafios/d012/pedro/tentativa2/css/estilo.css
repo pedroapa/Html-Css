@@ -15,12 +15,13 @@
     padding: 0px;
 }
 
+/* Se colocar esse trecho vai ficar com espaço furado la perto do footer e vai acontecer o efeito paralaxe
 body {
     background-image: url('../imagens/background001.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
-}
+}  */
 
 header {
     height: 265px;
@@ -61,42 +62,51 @@ main {
 }
 
 main div {
-    width: 550px;
+    width: 560px;
     height: 580px;
     padding-left: 5px;
     color: black;
     background-color: white;
     font-size: 20px;
+    margin-bottom: 165px;
 }
 
 .div-dentro {
     color: white;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.466);
 }
 
 main p {
     font-family: var(--fonte-texto);
     font-size: 47px;
-    margin-top: 165px;
 }
 
 main aside {
-    height: 1200px;
-    width: 500px;
-    
+    /*padding-left: 35px; */
+    height: 730px;
+    width: 1345px;
+    padding:  170px 1px 1px 1px;
+    margin-left: -30px;
     background-color: blueviolet; 
 }
 
-/*
+aside > div > p {
+    margin: 0px;
+}
+
 aside#flor {
     background-image: url('../imagens/background001.jpg');
     background-position: center center;
+    /*margin: 165px 0px; */
 }
-*/
 
 aside#livro {
     background-image: url('../imagens/background002.jpg');
     background-position: center center;
+}
+
+aside div {
+    margin-left: 30px;
 }
 
 footer {
@@ -105,5 +115,4 @@ footer {
     background-color: black;
     color: white;
     text-align: center; 
-    margin-top: 165px;
 }
