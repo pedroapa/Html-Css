@@ -57,3 +57,5 @@ Como resolver?
 eu vou criar as divs(estrofe) com texto normalmente como estou fazendo. E dividir o codigo em 3 seções e nas div que tem a imagem, ela vai empurrar uma seção pra cima e outra pra baixo.
 
 Eu consegui deixar parecido com o do professor, tirando os espamento entre as linhas que vou deixar para aprender junto na aula ou talvez eu tenha algo no caderno. Na minha versão não é responsivo e tem as imagens na tela junto. Vou criar uma terceira tentativa que vou criar o efeio paralaxe certinho e organizar melhor o HTML.
+
+usar pre em lugar do p(paragrafo)
