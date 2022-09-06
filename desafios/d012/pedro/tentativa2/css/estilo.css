@@ -58,7 +58,6 @@ header a:hover {
 main {
     background-color: white;
     padding-left: 30px;
-    padding-top: 165px;
 }
 
 main div {
@@ -69,11 +68,14 @@ main div {
     background-color: white;
     font-size: 20px;
     margin-bottom: 165px;
+    margin-top: 165px;
 }
 
 .div-dentro {
     color: white;
     background-color: rgba(0, 0, 0, 0.466);
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 main p {

@@ -21,3 +21,6 @@ Beleza, vou dividir a pagina em 3 partes brancas, um antes da primeira imagem, o
 
 Hoje não sei se tento fazer outro projeto ou tento entender qual treta esta acontecendo na segunda tentativa.
 Vou tentar resolucionar o bug da estar descofigurado, vou gastar um pouco a paciencia aqui
+
+eu deixei as div afastar das coisas, mas as div dentro da imagem não tenha margin top nem bottom
+Mas eu não sei direito daonde ta saindo a margin lef das div que estão dentro da imagem.
