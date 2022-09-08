@@ -59,12 +59,48 @@ header a:hover {
 
 main {
     background-color: white;
+    /*padding: 165px 0px; */
+}
+
+main p {
+    font-family: var(--fonte-texto);
+    font-size: 47px;
 }
 
 main div {
-    width: 560px;
+    width: 570px;
     height: 580px;
+    margin-left: 30px;
+    padding: 165px 0px;
 }
 
-div#
+
+.img-fundo {
+    background-color: rgba(0, 0, 0, 0.349);
+    font-family: var(--fonte-texto);
+    font-size: 47px;
+    color: white;
+    width: 560px;
+    height: 580px;
+    padding-left: 30px;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    height: 15px;
+    background-color: black;
+    color: white;
+    text-align: center; 
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
 
