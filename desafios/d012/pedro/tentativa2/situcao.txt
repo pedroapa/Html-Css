@@ -1,4 +1,4 @@
-Eu travei na onde eu estava fazendo, para não causar expresse atoa eu vou criar outro projeto e começar do zero.
+﻿Eu travei na onde eu estava fazendo, para não causar expresse atoa eu vou criar outro projeto e começar do zero.
 
 Eu primeiro quero testar se eu aprendi certo sobre imagem de fundo.
 
@@ -24,3 +24,5 @@ Vou tentar resolucionar o bug da estar descofigurado, vou gastar um pouco a paci
 
 eu deixei as div afastar das coisas, mas as div dentro da imagem não tenha margin top nem bottom
 Mas eu não sei direito daonde ta saindo a margin lef das div que estão dentro da imagem.
+
+Tem um problema que lá no footer fica um buraco e fica aparecendo o body, depois de ter feito a terceira tentativa eu entendi o que estava acontecendo. A ultima estrofe é a maior, eu fiz levando em conta a primeira, então basta eu dar mais espaço no width para que o texto caiba certinho dentro da div e esse bug some.
