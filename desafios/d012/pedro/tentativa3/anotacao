@@ -1,3 +1,18 @@
 Crei o arquivo e agora vou construir desde o zero de uma forma otimizada e também tentar deixar com espaço entre as linhas
 
 Eu usei pre no lugar de p. Também só usei uma div, que esta em volta de todos os pre e em apenas duas que tem id para eu deixar o espaço para aparecer a imagem
+
+Eu coloquei a imagem de fundo, mas quero fazer com que ela fique responsiva, mas não lembro certinho como se faz isso..
+Ela esta bem aonde eu quero, apesar que não esperava por no center top e ela ficasse como center bottom.
+
+Sobre ficar responsivo, eu simplesmente adicionei o a propriedade height 100vh; e deu certo, agora a imagem modifica de tamanho de boa. Mas, não lembro se tinha mais alguma configurações que eu precisaria fazer.
+
+Esqueci de dividir em tres pedaços
+criar 3 mains porque o body tem que ficar atras e separando ele aparece
+
+Eu crei uma classe para todas div tivessem a mesma configuração, mas elas são são do mesmo tipo, vou aproveitar que todas são div e só duas que vou usar uma classe para imagem de fundo
+
+Eu não configuerei do jeito que estava imaginando e ja ficou uma "janela". Hum.. posso aumentar o buraco, talvez seja assim mesmo, por ser uma caixa ja deixou um espaço pra ela.
+
+PROBLEMA é que o main esta grande, ta com 1000 de altura, mas a div esta com 500. Daonde esta saindo esse tamanho extra?
+
