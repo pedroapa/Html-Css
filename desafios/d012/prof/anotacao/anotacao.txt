@@ -1,0 +1,10 @@
+Quando eu tentei imitar o projeto cordel, eu dei espaço entre a estrofe e as margens com padding do main e com margin da div.
+
+Eu fiz de um jeito diferente do professor, era estrofe(p) em uma div, que por sua vez estava no main
+Professor usou apenas estrofe(p) dentro de um section
+
+
+O professor apenas colocou um padding top e bottom de 10% da tela no section e resolver esse problema. Ele queria apenas deixar a parte dos section que vai ter as imagens maior e acabou resolvendo esse problema também.
+
+OBS: os 10% vão se manter quando a fonte da letra aumentar
+estão ta automatico isso
