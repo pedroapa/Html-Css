@@ -1,0 +1,6 @@
+Então no final da conta o professor colocou as imagens dentro das div(section) mesmo e eu pensando que era no body
+
+por que o paragrafo dentro da section imagem não ficou com um espaço em baixo?
+R: talvez porque a div p esta com display inline-block, se estive com tamanho fixo, ela poderia ter o espaçamento, porque do jeito que esta usa p "justinho"
+Testando a hipótese, descobri que na verdade isso não faz diferença, eu retirei display inline-block e  coloquei uma largura fixa e continuo a funcionar da mesma forma, então foi ai que entendi o que dava esse espaçamento era padding-bottom e que dentro do seletor
+section.imagem > p tem seu próprio padding, então ele herdou, mas depois alterou o valor
