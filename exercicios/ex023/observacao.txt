@@ -1,0 +1,3 @@
+Primeiro, acrescentar um dados a mais na linha que esta no seu "limite"
+
+Se voce pegar um td e colocar no meio dos tr, ele pode ficar no meio de dois tr, o negocio vai deixar o td no meio, como se ele estivesse uma linha
